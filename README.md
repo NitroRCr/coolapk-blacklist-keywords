@@ -1,7 +1,7 @@
 # coolapk-blacklist-keywords
--  **详见 [list.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)**
+-  **详见 [`list.txt`](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)**
 
--  欢迎 Fork、Star、Pull Request 
+-  欢迎 Fork、Star、Pull Request
 
 -  不熟悉 Git 或者 GitHub 使用的朋友，<br>可以整理关键词（一行一条）并发送邮件至 coolapk-fan@hotmail.com
 ## keywords sources
@@ -19,12 +19,12 @@ Toast message:
  
   or more ...
 ## list
--  （主要）详见 [list.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)
--   [other.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/other.txt)
+-  （主要）详见 [`list.txt`](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)
+-   [`other.txt`](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/other.txt)
 
--  ~~（补充，暂停维护）[list.md](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)~~
+-  ~~（补充，暂停维护）[`list.md`](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)~~
 ## tips
--  因 [list.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt) **只增不减**，故其中部分条目为**已取消屏蔽**或**曾临时取消屏蔽**的关键词，仅供参考
+-  因 [`list.txt`](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt) **只增不减**，故其中部分条目为**已取消屏蔽**或**曾临时取消屏蔽**的关键词，仅供参考
 -  ~~Markdown 版本中**已取消屏蔽**或**曾临时取消屏蔽**的关键词用删除线标注~~
 
 ## timeline
