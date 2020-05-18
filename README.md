@@ -1,9 +1,17 @@
 # coolapk-blacklist-keywords(stopped)
+## 一些说明
+
 -  **该项目已中止！**
+-  **原作者已删库！**
+
+由于某些原因，[原作者](https://github.com/Coolapk-Fan)不得不停止了项目并删库，~~我也不打算继续~~
+
+这里仅作纪念
+
+<hr>
+
 -  **详见 [`list.txt`](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)**
-
 -  ~~欢迎 Fork、Star、Pull Request~~
-
 -  ~~不熟悉 Git 或者 GitHub 使用的朋友，<br>可以整理关键词（一行一条）并发送邮件至 coolapk-fan@hotmail.com~~
 ## keywords sources
 
@@ -15,9 +23,9 @@ Toast message:
  **内容包含违规信息，无法发送**（私信）
 
  or 
- 
+
  **触发关键词无提醒自动隐藏/折叠**（动态/评论/图文）
- 
+
   or more ...
 ## list
 -  （主要）详见 [`list.txt`](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)
